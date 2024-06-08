@@ -1,0 +1,9 @@
+[package]
+name = "cmd-macro"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+command-macros = "0.2"
+serde = { version = "1.0", features = ["derive"] }
+toml = "0.5"
