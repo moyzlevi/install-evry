@@ -1,5 +1,3 @@
-use std::env::args;
-
 #[macro_use]
 extern crate command_macros;
 
